@@ -1,3 +1,8 @@
+# Note: this module will be replaced with [**`Exodia-Acer-Predator-Edition/Linuwu-Sense`**](https://github.com/Exodia-Acer-Predator-Edition/Linuwu-Sense) in the coming release 
+<br>
+
+---
+
 # Unofficial Acer Gaming RGB keyboard backlight and Turbo mode Linux kernel module (Acer Predator, Acer Helios, Acer Nitro)
 ![](keyboard.webp)
 
